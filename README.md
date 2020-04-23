@@ -22,16 +22,29 @@ Viewpoints
 The position and orientation of each observation image are stored in a file for each scene called 'viewpoints.csv'. The format of the columns in the files are as follows
 
 Index
+
 x position
+
 y position
+
 z position
+
 sin of the x Euler angle in radians
+
 cos of the x Euler angle in radians
+
 sin of the y Euler angle in radians
+
 cos of the y Euler angle in radians
+
 sin of the z Euler angle in radians
+
 cos of the z Euler angle in radians
+
 x value of quaternion
+
 y value of quaternion
+
 z value of quaternion
+
 w value of quaternion
